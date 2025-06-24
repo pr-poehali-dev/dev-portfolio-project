@@ -35,7 +35,7 @@ const About = () => {
             <span className="text-terminal-green">const</span> developer = {"{"}
           </p>
           <p className="ml-8 mb-2">
-            name: <span className="text-white">"Fullstack Developer"</span>,
+            name: <span className="text-white">"Utsy"</span>,
           </p>
           <p className="ml-8 mb-2">
             experience: <span className="text-white">"5+ лет"</span>,
